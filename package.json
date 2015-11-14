@@ -2,8 +2,12 @@
   "name": "entence hompage",
   "description": "Entence homepage",
   "main": "server.js",
+  "version": "0.0.1",
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.2.2"
   },
   "dependencies": {
     "ejs": "~1.0.0",
