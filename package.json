@@ -12,7 +12,8 @@
   "dependencies": {
     "ghost": "0.7.0",
     "ghost-s3-storage": "~0.2.1",
-    "pg": "latest"
+    "pg": "latest",
+    "newrelic":">=0.9"
   },
   "engines": {
     "node": "~0.10.0"
