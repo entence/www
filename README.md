@@ -1,2 +1,0 @@
-# www
-The public homepage
